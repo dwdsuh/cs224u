@@ -6,3 +6,5 @@ Code for [the Stanford course](http://web.stanford.edu/class/cs224u/). The code 
 
 * [Bill MacCartney](http://nlp.stanford.edu/~wcmac/)
 * [Christopher Potts](http://web.stanford.edu/~cgpotts/)
+
+forked by dayone
