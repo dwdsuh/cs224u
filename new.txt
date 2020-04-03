@@ -1,2 +1,0 @@
-remote:1 edited in local:1
-resolved conflict
